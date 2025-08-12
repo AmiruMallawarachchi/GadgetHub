@@ -1,0 +1,1 @@
+<%@ Application Codebehind="Global.asax.cs" Inherits="GadgetHub.Client.MvcApplication" Language="C#" %>
